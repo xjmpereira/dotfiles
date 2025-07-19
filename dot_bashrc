@@ -116,6 +116,10 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# Ghostty shell integration for Bash. This must be at the top of your bashrc!
+if [ -n "${GHOSTTY_RESOURCES_DIR}" ]; then
+    builtin source "${GHOSTTY_RESOURCES_DIR}/shell-integration/bash/ghostty.bash"
+fi
 
 export SHELL_NAME="${HOSTNAME}"
 export SHELL_ICON="$(echo -e '\u2744')"

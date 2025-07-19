@@ -1,4 +1,6 @@
-theme = "tokyonight"
+shell-integration = "bash"
+title = " "
+theme = "ayu"
 font-family = "MesloLGS Nerd Font Mono"
 font-size = 10
 window-padding-balance = true
