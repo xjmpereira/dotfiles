@@ -33,4 +33,5 @@ curl -s -L https://github.com/starship/starship/releases/download/v1.23.0/starsh
 ```bash
 mkdir -p ${HOME}/.local/share/fonts
 curl -s -L https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Meslo.tar.xz | tar -xf - -JC ~/.local/share/fonts
+curl -s -L https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Lekton.tar.xz | tar -xf - -JC ~/.local/share/fonts
 ```

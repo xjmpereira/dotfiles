@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Ayu Dark Bordered",
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "Lekton Nerd Font Mono",
+    "editor.fontSize": 15,
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontFamily": "Lekton Nerd Font Mono",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontLigatures.enabled": false,
+    "github.copilot.nextEditSuggestions.enabled": false,
+}
